@@ -32,8 +32,8 @@ This repository contains my C++ programming practice and DSA preparation journey
 * [x] Input and Output
 * [x] Operators
 * [x] Conditional Statements
-* [ ] Loops
-* [ ] Functions
+* [x] Loops
+* [x] Functions
 * [ ] Arrays
 * [ ] Strings
 * [ ] STL
