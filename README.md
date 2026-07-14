@@ -34,7 +34,8 @@ This repository contains my C++ programming practice and DSA preparation journey
 * [x] Conditional Statements
 * [x] Loops
 * [x] Functions
-* [ ] Arrays
+* [*] Arrays
+* [*] vectors
 * [ ] Strings
 * [ ] STL
 * [ ] Data Structures
@@ -55,4 +56,4 @@ Each file contains a standalone C++ program demonstrating a specific concept or 
 ## Progress
 
 Programs Completed: 9+
-Current Focus: Conditional Statements and Loops
+Current Focus: maximum subarray sum
